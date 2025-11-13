@@ -59,7 +59,7 @@ Implements fast key-based storage and lookup.
 
 ---
 
-## 🧩 How It Works
+## How It Works
 
 1. The program reads **`milestone3_config.json`** to retrieve:
    - Input file path (test cases)  
@@ -72,7 +72,7 @@ Implements fast key-based storage and lookup.
 
 ---
 
-## 🚀 Usage
+## Usage
 
 ```bash
 # Compile
