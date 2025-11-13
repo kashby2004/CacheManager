@@ -14,7 +14,6 @@ C++ cache management system implementing a FIFO list and hash table for efficien
 | **json.hpp** | JSON processing library |
 | **milestone3.json** | Input file containing test cases and transactions |
 | **milestone3_config.json** | Configuration file specifying input, output, and error log paths |
-| **generatedOutputFile.txt** | Example output file showing generated results |
 | **milestone3.cpp** | Main program that loads configuration, processes test cases, and writes outputs |
 
 ---
@@ -69,7 +68,7 @@ Implements fast key-based storage and lookup.
 
 2. **Test cases** from `milestone3.json` are processed by the `CacheManager`.
 
-3. Results are written to `generatedOutputFile.txt`, and errors (if any) are logged separately.
+3. Results are and errors (if any) are logged.
 
 ---
 
